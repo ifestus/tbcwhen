@@ -18,4 +18,6 @@ npm install serverless-python-requirements
 ## Here make sure you have your aws credentials configured
 aws configure
 ...
+
+serverless deploy
 ```
